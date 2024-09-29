@@ -12,13 +12,3 @@
 <a href="https://github.com/MariusPerle/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MariusPerle&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MariusPerle's github stats" /></a>
 -->
 <a href="https://github.com/MariusPerle/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariusPerle&layout=compact&theme=buefy&hide_border=true" /></a>
-
-
-### Current Recommendations
-<a href="https://github.com/MariusPerle/ngrx-snapshot">
-  <img align="center" alt="ngrx-snapshot repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MariusPerle&repo=ngrx-snapshot&theme=buefy" />
-</a>
-
-<a href="https://github.com/MariusPerle/twitch_chat">
-  <img align="center" alt="twitch_chat repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MariusPerle&repo=twitch_chat&theme=buefy" />
-</a>
