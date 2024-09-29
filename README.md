@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Marius 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Marius_Perle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/marius-perle-7774271b2/)
+
+- 🙋‍♂️ Once an agile leader
+- 👨‍💻 Full-stack developer
+- 🌱 Wanting to be a cloud/web architect
+- 🧩 Love to learn and share my knowledge 
+- 🎯 Summary of skills and projects [here](https://mariusperle.de/)
+- 💬 Ask me about anything [here](https://github.com/MariusPerle/MariusPerle/issues)
 
 <!--
-**MariusPerle/MariusPerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://github.com/MariusPerle/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MariusPerle&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MariusPerle's github stats" /></a>
 -->
+<a href="https://github.com/MariusPerle/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariusPerle&layout=compact&theme=buefy&hide_border=true" /></a>
+
+
+### Current Recommendations
+<a href="https://github.com/MariusPerle/ngrx-snapshot">
+  <img align="center" alt="ngrx-snapshot repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MariusPerle&repo=ngrx-snapshot&theme=buefy" />
+</a>
+
+<a href="https://github.com/MariusPerle/twitch_chat">
+  <img align="center" alt="twitch_chat repo" src="https://github-readme-stats.vercel.app/api/pin/?username=MariusPerle&repo=twitch_chat&theme=buefy" />
+</a>
