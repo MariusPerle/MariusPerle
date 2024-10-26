@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "description": "IT tutorials and reviews"
+        },
+        {
+            "id": "1",
+            "description": "Fictional Stories by a collection of artists"
+        },
+        {
+            "id": "1",
+            "description": "DnD inspired dice game to play with friends"
+        },
+        {
+            "id": "1",
+            "description": "Make notes and track colleges trough meetings"
+        }
+    ]
+}
