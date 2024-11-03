@@ -1,19 +1,19 @@
 {
     "projects": [
         {
-            "id": "1",
+            "id": 1,
             "description": "IT tutorials and reviews"
         },
         {
-            "id": "2",
+            "id": 2,
             "description": "Fictional Stories by a collection of artists"
         },
         {
-            "id": "3",
+            "id": 3,
             "description": "DnD inspired dice game to play with friends"
         },
         {
-            "id": "4",
+            "id": 4,
             "description": "Make notes and track colleges trough meetings"
         }
     ]
