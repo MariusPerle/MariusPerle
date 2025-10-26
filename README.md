@@ -1,5 +1,4 @@
 ## Hi, I'm Marius 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Marius_Perle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/marius-perle-7774271b2/)
 
 - 🙋‍♂️ Once an agile leader
 - 👨‍💻 Full-stack developer
