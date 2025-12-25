@@ -10,4 +10,4 @@
 <!--
 <a href="https://github.com/MariusPerle/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MariusPerle&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MariusPerle's github stats" /></a>
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusPerle&theme=dark&layout=compact&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MariusPerle&theme=dark&layout=compact&count_private=true&hide_border=true)
