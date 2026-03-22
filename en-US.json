@@ -11,6 +11,10 @@
         {
             "id": 3,
             "description": "DnD inspired dice game to play with friends"
+        },
+        {
+            "id": 4,
+            "description": "An open-source tool for checking how sustainable & accessible websites really are. A project for Cloudfest Hackathon 2026"
         }
     ]
 }
