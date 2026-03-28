@@ -22,11 +22,15 @@
       "language": "Angular & NestJs"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Website Responsibility Scanner",
       "html_url": "https://github.com/cfhack2026-wrs/",
       "created_at": "2026-03-20T00:00:00.000Z",
       "updated_at": "2026-03-22T00:00:00.000Z",
+      "role": "UI Developer",
+      "license": {
+        "name": "Open Source (not specified)"
+      },
       "language": "React & Lavel"
     }
   ]
